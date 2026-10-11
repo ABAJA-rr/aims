@@ -1,0 +1,5 @@
+.git
+aims-frontend-main
+aims-backend/vendor
+aims-backend/node_modules
+aims-backend/.env
